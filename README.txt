@@ -1,3 +1,3 @@
 Hello
-this readme is nothing, dont waste your time reading these.
+this readme is nothing, dont waste your time reading this.
 lalalala
